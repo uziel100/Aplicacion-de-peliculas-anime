@@ -2,41 +2,41 @@
 
 # Screenshots
 
-# Dispositivos moviles
+Dispositivos moviles
 
 Pagina inicio
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/movil-home.png)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/movil-home.png)
 
 Pagina Resultados de busqueda
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/movil-search.jpg)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/movil-search.jpg)
 
 Pagina catalogo de peliculas
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/movil-movies.jpg)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/movil-movies.jpg)
 
 Pagina detalle de pelicula
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/movil-movies-detail.png)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/movil-movies-detail.png)
 
-# Dispositivos moviles
+Dispositivos de escritorio
 
 Pagina inicio
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/desktop-home.png)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/desktop-home.png)
 
 Pagina Resultados de busqueda
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/desktop-search.png)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/desktop-search.png)
 
 Pagina catalogo de peliculas
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/desktop-movies.jpg)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/desktop-movies.jpg)
 
 Pagina detalle de pelicula
 
-![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/img/desktop-detail.png)
+![screenshot](https://github.com/uziel100/Aplicacion-de-peliculas-anime/blob/master/screenshots/desktop-detail.png)
 
 
 
